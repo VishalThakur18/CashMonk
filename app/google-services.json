@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71149875211",
+    "project_id": "cashmonk-fa70a",
+    "storage_bucket": "cashmonk-fa70a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71149875211:android:93cd1d6fe8409cd2fbd70e",
+        "android_client_info": {
+          "package_name": "com.example.cashmonk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhIV19-vIYiX1vVxMI_UspP2tZPE6Xj9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
